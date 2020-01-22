@@ -1,4 +1,4 @@
-// to find max between 3 no.s
+//  to find max between 3 no.s
 #include<stdio.h>
 #include<conio.h>
 
