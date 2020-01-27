@@ -1,4 +1,4 @@
-//  to check vowel or consonent
+// to check vowel or consonent
 #include<stdio.h>
 #include<conio.h>
 
