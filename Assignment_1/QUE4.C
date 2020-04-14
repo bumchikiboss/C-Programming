@@ -1,4 +1,4 @@
-//  to tell if number is negative,zero or positive
+// to tell if number is negative,zero or positive
 #include<stdio.h>
 #include<conio.h>
 

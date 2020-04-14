@@ -1,4 +1,4 @@
-//  to check whether triangle exists or not
+// to check whether triangle exists or not
 #include<stdio.h>
 #include<conio.h>
 
